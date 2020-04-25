@@ -48,7 +48,7 @@ cacheSolve <- function(x, ...) {
   if (!is.null (inv)) {
 
     message("get cached data")
-    
+
     return(inv)
 
   }
